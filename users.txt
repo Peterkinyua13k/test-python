@@ -1,0 +1,1 @@
+C:\Users\kinyu\AppData\Local\Microsoft\WindowsApps\python3.13.exe "e:/test python/logincode.py", 18, Kenya, kinyuapeter@gmail.com, unemployed
